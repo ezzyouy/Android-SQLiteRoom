@@ -7,9 +7,9 @@ in this application we try to use SQLite Room the manage our data by __ORM__ con
 ## Instruction
 to use SQLite Room you need to add those dependencies to you __build.gradle__
 `def room_version = "2.4.2"`
-`implementation "androidx.room:room-runtime:$room_version"
-annotationProcessor "androidx.room:room-compiler:$room_version"`
+`implementation "androidx.room:room-runtime:$room_version"`
+`annotationProcessor "androidx.room:room-compiler:$room_version"`
 
 ## Application Screen
 
-![](./capture/cap1.png)```
+![](./capture/cap1.png)
